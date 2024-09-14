@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatBotApplication</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <!-- Add more languages as needed -->
+    </string-array>
+</resources>
